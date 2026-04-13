@@ -13,7 +13,7 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 - **The Flow:** Vendor contracts and internal payment “truth” are centralized into a relational schema, creating a clean, intentional data stream optimized for high‑performance T-SQL and real-time eligibility insight.
 
 ### 🎀 Pillar 2: Transformation Rigor (SQL Audit Engine)
-- **The Logic:** A purpose‑built **Three‑Way Match** engine engineered directly in the **Microsoft Fabric Warehouse** to protect the bottom line and expose verification bottlenecks.
+- **The Logic:** A purpose‑built **Three‑Way Match** engine engineered directly in the **Microsoft Fabric Warehouse** to identify Revenue Leakage and expose verification bottlenecks.
 - **The Detail:** Custom **T-SQL logic** classifies leakage with precision and highlights where time‑to‑truth slows down—where 15+ years of industry expertise meets modern analytics engineering.
 
 ### 🕊 Pillar 3: Regulated Governance & Security
@@ -22,7 +22,7 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 
 ### 📈 Pillar 4: Executive Visualization (Power BI)
 - **The Insight:** A focused **Vendor Revenue Scorecard** delivered via Power BI **Direct Lake**.
-- **The Impact:** Complex SQL logic becomes a clean, actionable visual, helping leadership quickly surface leakage, see where verification stalls, and prioritize resources.
+- **The Impact:** Complex SQL logic becomes a clean, actionable visual, helping leadership quickly surface Revenue Leakage, see where verification bottlenecks stall, and prioritize resources.
 
 ---
 
@@ -37,8 +37,8 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 
 ## 🌸 The Mari Stricklin Approach
 1. **Raw data** lands in the Fabric Warehouse (Bronze/Staging layer). 🔍
-2. **SQL Audit Engine** orchestrates transformations into curated Silver/Gold layers. ✨
-3. **Integrity checks** enforce data quality and prevent “ghost recoveries.” ✅
+2. **SQL Audit Engine** orchestrates transformations to calculate the Revenue Leakage. ✨
+3. **Integrity checks** enforce data quality and expose verification bottlenecks. ✅
 4. **Power BI** surfaces results instantly—accurate, defensible, and boardroom‑ready. 📈
 
 ---
