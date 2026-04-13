@@ -21,9 +21,25 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 - **The Trust:** Every financial calculation is auditable and transparent, held to a standard of compliance and accountability.
 
 ### 📈 Pillar 4: Executive Visualization (Power BI)
-- **The Insight:** A focused **Vendor Revenue Scorecard** delivered via Power BI **Direct Lake**.
-- **The Impact:** Complex SQL logic becomes a clean, actionable visual, helping leadership quickly surface Revenue Leakage, see where verification bottlenecks stall, and prioritize resources.
 
+* **The Insight:** A focused **Vendor Revenue Scorecard** delivered via Power BI **Direct Lake**.
+
+<br>
+
+<div align="center">
+  <img src="Revenue Scorecard.png" width="1000" alt="Executive Revenue Dashboard">
+  <p><i><b>Figure 1:</b> Executive Dashboard highlighting the $118.18K Revenue Gap and process bottlenecks.</i></p>
+  
+  <br>
+  
+  <p style="text-align: left; max-width: 900px;">
+    <b>The Impact:</b> Complex SQL logic is converted into actionable intelligence. This visualization allows leadership to move beyond "guessing" why revenue is lagging and provides a clear roadmap for resource prioritization and bottleneck remediation.
+  </p>
+</div>
+
+<br>
+
+---
 ---
 
 ## 🛠 Tech Stack
