@@ -12,9 +12,9 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 - **The Foundation:** Professional **Data Warehouse** environment built in Microsoft Fabric.
 - **The Flow:** Vendor contracts and internal payment “truth” are centralized into a relational schema, creating a clean, intentional data stream optimized for high‑performance T-SQL and real-time eligibility insight.
 
-### 🎀 Pillar 2: Transformation Rigor (dbt Modeling)
-- **The Logic:** A purpose‑built **Three‑Way Match** engine to protect the bottom line and expose verification bottlenecks.
-- **The Detail:** Version‑controlled **dbt** models classify leakage with precision and highlight where time‑to‑truth slows down—where 15+ years of industry expertise meets modern analytics engineering.
+### 🎀 Pillar 2: Transformation Rigor (SQL Audit Engine)
+- **The Logic:** A purpose‑built **Three‑Way Match** engine engineered directly in the **Microsoft Fabric Warehouse** to protect the bottom line and expose verification bottlenecks.
+- **The Detail:** Custom **T-SQL logic** classifies leakage with precision and highlights where time‑to‑truth slows down—where 15+ years of industry expertise meets modern analytics engineering.
 
 ### 🕊 Pillar 3: Regulated Governance & Security
 - **The Standard:** Built in a managed **Fabric environment** with enterprise‑grade security and Git-integrated version control.
@@ -28,7 +28,7 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 
 ## 🛠 Tech Stack
 - **Platform:** Microsoft Fabric (SQL Warehouse) ☁️
-- **Transformation:** dbt (Data Build Tool) ⚙️
+- **Engine:** T-SQL (Three-Way Match Logic) ⚙️
 - **Storage:** Managed Delta Tables 💎
 - **BI:** Power BI (Direct Lake) 📊
 - **Version Control:** GitHub 📂
@@ -37,11 +37,10 @@ I blend the investigative precision of a **Data Analyst** with the architectural
 
 ## 🌸 The Mari Stricklin Approach
 1. **Raw data** lands in the Fabric Warehouse (Bronze/Staging layer). 🔍
-2. **dbt jobs** orchestrate transformations into curated Silver/Gold layers. ✨
-3. **Automated tests** enforce data quality and prevent “ghost recoveries.” ✅
+2. **SQL Audit Engine** orchestrates transformations into curated Silver/Gold layers. ✨
+3. **Integrity checks** enforce data quality and prevent “ghost recoveries.” ✅
 4. **Power BI** surfaces results instantly—accurate, defensible, and boardroom‑ready. 📈
 
 ---
 
 **Designed & Engineered by Mari Stricklin** *Analytics Engineer | RCVM Strategy* 🕊️ **“5: The Number of Grace”** — the principle behind every control, calculation, and recovery in this project.
-
